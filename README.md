@@ -19,4 +19,4 @@ Install all the requirements with `pip install -r requirements.txt`
 
 ---
 
-Project for _Natural Interaction_ and _Affective Computing_ courses, AY _2024/2025_, by _Hari Calzi_ and _Salvatore Ferrara_.
+Project for _Natural Interaction_ and _Affective Computing_ courses, AY _2024/2025_, by [_Hari Calzi_](https://github.com/haricalzi) and [_Salvatore Ferrara_](https://github.com/2piccio2).
