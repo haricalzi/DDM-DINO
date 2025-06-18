@@ -1,0 +1,16 @@
+numpy
+matplotlib
+pillow
+torch
+torchvision
+opencv-python
+transformers
+seaborn
+scipy
+opencv-python
+#tqdm
+#pandas
+#nltk
+#multimatch_gaze
+#fastdtw
+#scikit-klearn

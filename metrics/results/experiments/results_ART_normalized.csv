@@ -1,0 +1,644 @@
+ID,PROMPT,X,Y,norm_X,norm_Y
+34573,red car parked,255,160,0.498046875,0.5
+34573,red car parked,228,106,0.4453125,0.33125
+34573,red car parked,302,81,0.58984375,0.253125
+34573,red car parked,375,66,0.732421875,0.20625
+34573,red car parked,411,51,0.802734375,0.159375
+46954,white car in lower left corner foreground,258,161,0.50390625,0.503125
+46954,white car in lower left corner foreground,178,166,0.34765625,0.51875
+46954,white car in lower left corner foreground,173,184,0.337890625,0.575
+46954,white car in lower left corner foreground,197,204,0.384765625,0.6375
+46954,white car in lower left corner foreground,162,203,0.31640625,0.634375
+46954,white car in lower left corner foreground,92,216,0.1796875,0.675
+46954,white car in lower left corner foreground,76,232,0.1484375,0.725
+46954,white car in lower left corner foreground,76,239,0.1484375,0.746875
+15021,black car behind red car,254,162,0.49609375,0.50625
+15021,black car behind red car,259,191,0.505859375,0.596875
+15021,black car behind red car,288,247,0.5625,0.771875
+15021,black car behind red car,302,267,0.58984375,0.834375
+15021,black car behind red car,309,274,0.603515625,0.85625
+15021,black car behind red car,317,273,0.619140625,0.853125
+15021,black car behind red car,313,269,0.611328125,0.840625
+6987,white vehicle lower left corner,256,161,0.5,0.503125
+6987,white vehicle lower left corner,261,196,0.509765625,0.6125
+6987,white vehicle lower left corner,234,197,0.45703125,0.615625
+6987,white vehicle lower left corner,273,238,0.533203125,0.74375
+6987,white vehicle lower left corner,122,261,0.23828125,0.815625
+42880,right car dark,254,160,0.49609375,0.5
+42880,right car dark,254,182,0.49609375,0.56875
+42880,right car dark,243,203,0.474609375,0.634375
+42880,right car dark,383,247,0.748046875,0.771875
+42880,right car dark,457,267,0.892578125,0.834375
+49168,yellow car,256,160,0.5,0.5
+49168,yellow car,266,127,0.51953125,0.396875
+49168,yellow car,381,137,0.744140625,0.428125
+49168,yellow car,416,141,0.8125,0.440625
+41720,white car in front of bus,259,161,0.505859375,0.503125
+41720,white car in front of bus,205,162,0.400390625,0.50625
+41720,white car in front of bus,271,191,0.529296875,0.596875
+41720,white car in front of bus,352,211,0.6875,0.659375
+41720,white car in front of bus,407,216,0.794921875,0.675
+41720,white car in front of bus,421,214,0.822265625,0.66875
+41720,white car in front of bus,380,214,0.7421875,0.66875
+41720,white car in front of bus,351,213,0.685546875,0.665625
+47953,red pillow on left,260,163,0.5078125,0.509375
+47953,red pillow on left,229,133,0.447265625,0.415625
+47953,red pillow on left,235,139,0.458984375,0.434375
+47953,red pillow on left,252,159,0.4921875,0.496875
+47953,red pillow on left,168,167,0.328125,0.521875
+47953,red pillow on left,79,167,0.154296875,0.521875
+43376,couch in front of window,256,160,0.5,0.5
+43376,couch in front of window,238,161,0.46484375,0.503125
+43376,couch in front of window,244,166,0.4765625,0.51875
+43376,couch in front of window,240,171,0.46875,0.534375
+43376,couch in front of window,255,182,0.498046875,0.56875
+43376,couch in front of window,283,173,0.552734375,0.540625
+43376,couch in front of window,276,160,0.5390625,0.5
+43376,couch in front of window,274,160,0.53515625,0.5
+13769,couch lower left corner,255,160,0.498046875,0.5
+13769,couch lower left corner,246,156,0.48046875,0.4875
+13769,couch lower left corner,259,177,0.505859375,0.553125
+13769,couch lower left corner,189,247,0.369140625,0.771875
+13769,couch lower left corner,125,276,0.244140625,0.8625
+24150,tan seat cushion behind computer,257,161,0.501953125,0.503125
+24150,tan seat cushion behind computer,256,162,0.5,0.50625
+24150,tan seat cushion behind computer,240,154,0.46875,0.48125
+24150,tan seat cushion behind computer,252,152,0.4921875,0.475
+24150,tan seat cushion behind computer,241,77,0.470703125,0.240625
+24150,tan seat cushion behind computer,234,50,0.45703125,0.15625
+24150,tan seat cushion behind computer,237,40,0.462890625,0.125
+11023,couch on left,256,159,0.5,0.496875
+11023,couch on left,188,146,0.3671875,0.45625
+11023,couch on left,94,138,0.18359375,0.43125
+11023,couch on left,78,141,0.15234375,0.440625
+18170,couch to left of old man,256,161,0.5,0.503125
+18170,couch to left of old man,232,156,0.453125,0.4875
+18170,couch to left of old man,245,165,0.478515625,0.515625
+18170,couch to left of old man,254,179,0.49609375,0.559375
+18170,couch to left of old man,146,215,0.28515625,0.671875
+18170,couch to left of old man,100,237,0.1953125,0.740625
+18170,couch to left of old man,97,240,0.189453125,0.75
+18170,couch to left of old man,98,242,0.19140625,0.75625
+26844,green truck on left front of row,255,160,0.498046875,0.5
+26844,green truck on left front of row,247,157,0.482421875,0.490625
+26844,green truck on left front of row,246,212,0.48046875,0.6625
+26844,green truck on left front of row,239,231,0.466796875,0.721875
+26844,green truck on left front of row,107,213,0.208984375,0.665625
+26844,green truck on left front of row,72,222,0.140625,0.69375
+26844,green truck on left front of row,73,220,0.142578125,0.6875
+26844,green truck on left front of row,69,220,0.134765625,0.6875
+26844,green truck on left front of row,69,223,0.134765625,0.696875
+13450,right back train behind green poles,257,161,0.501953125,0.503125
+13450,right back train behind green poles,242,146,0.47265625,0.45625
+13450,right back train behind green poles,232,145,0.453125,0.453125
+13450,right back train behind green poles,247,148,0.482421875,0.4625
+13450,right back train behind green poles,266,151,0.51953125,0.471875
+13450,right back train behind green poles,299,150,0.583984375,0.46875
+13450,right back train behind green poles,316,150,0.6171875,0.46875
+13450,right back train behind green poles,353,145,0.689453125,0.453125
+4519,second bus front,256,160,0.5,0.5
+4519,second bus front,256,139,0.5,0.434375
+4519,second bus front,276,141,0.5390625,0.440625
+4519,second bus front,293,146,0.572265625,0.45625
+4519,second bus front,243,154,0.474609375,0.48125
+25205,bus on right in back,255,160,0.498046875,0.5
+25205,bus on right in back,254,165,0.49609375,0.515625
+25205,bus on right in back,276,159,0.5390625,0.496875
+25205,bus on right in back,391,158,0.763671875,0.49375
+25205,bus on right in back,428,151,0.8359375,0.471875
+25205,bus on right in back,434,146,0.84765625,0.45625
+25205,bus on right in back,435,148,0.849609375,0.4625
+31560,bus behind and left of main one,256,160,0.5,0.5
+31560,bus behind and left of main one,253,160,0.494140625,0.5
+31560,bus behind and left of main one,246,156,0.48046875,0.4875
+31560,bus behind and left of main one,230,149,0.44921875,0.465625
+31560,bus behind and left of main one,189,154,0.369140625,0.48125
+31560,bus behind and left of main one,104,167,0.203125,0.521875
+31560,bus behind and left of main one,82,170,0.16015625,0.53125
+31560,bus behind and left of main one,83,171,0.162109375,0.534375
+31560,bus behind and left of main one,79,175,0.154296875,0.546875
+9233,bus on the right,257,161,0.501953125,0.503125
+9233,bus on the right,266,162,0.51953125,0.50625
+9233,bus on the right,289,167,0.564453125,0.521875
+9233,bus on the right,318,166,0.62109375,0.51875
+9233,bus on the right,438,171,0.85546875,0.534375
+9233,bus on the right,474,169,0.92578125,0.528125
+13520,the blue bus is cool,257,160,0.501953125,0.5
+13520,the blue bus is cool,232,152,0.453125,0.475
+13520,the blue bus is cool,212,161,0.4140625,0.503125
+13520,the blue bus is cool,198,169,0.38671875,0.528125
+13520,the blue bus is cool,193,172,0.376953125,0.5375
+13520,the blue bus is cool,185,171,0.361328125,0.534375
+13520,the blue bus is cool,176,169,0.34375,0.528125
+13520,the blue bus is cool,179,169,0.349609375,0.528125
+21728,full elephant on left,258,162,0.50390625,0.50625
+21728,full elephant on left,220,175,0.4296875,0.546875
+21728,full elephant on left,248,188,0.484375,0.5875
+21728,full elephant on left,247,199,0.482421875,0.621875
+21728,full elephant on left,212,204,0.4140625,0.6375
+21728,full elephant on left,182,210,0.35546875,0.65625
+2939,elephant just to right of baby,257,161,0.501953125,0.503125
+2939,elephant just to right of baby,216,143,0.421875,0.446875
+2939,elephant just to right of baby,280,148,0.546875,0.4625
+2939,elephant just to right of baby,325,148,0.634765625,0.4625
+2939,elephant just to right of baby,351,150,0.685546875,0.46875
+2939,elephant just to right of baby,354,150,0.69140625,0.46875
+2939,elephant just to right of baby,349,147,0.681640625,0.459375
+2939,elephant just to right of baby,371,150,0.724609375,0.46875
+5340,middle back of elephant,256,162,0.5,0.50625
+5340,middle back of elephant,210,153,0.41015625,0.478125
+5340,middle back of elephant,206,151,0.40234375,0.471875
+5340,middle back of elephant,215,150,0.419921875,0.46875
+5340,middle back of elephant,230,149,0.44921875,0.465625
+5340,middle back of elephant,242,175,0.47265625,0.546875
+5340,middle back of elephant,243,186,0.474609375,0.58125
+18264,the one furthest right in water,256,161,0.5,0.503125
+18264,the one furthest right in water,253,153,0.494140625,0.478125
+18264,the one furthest right in water,282,151,0.55078125,0.471875
+18264,the one furthest right in water,318,150,0.62109375,0.46875
+18264,the one furthest right in water,321,156,0.626953125,0.4875
+18264,the one furthest right in water,352,161,0.6875,0.503125
+18264,the one furthest right in water,357,163,0.697265625,0.509375
+18264,the one furthest right in water,369,165,0.720703125,0.515625
+1434,elephant on right thats hidden,258,160,0.50390625,0.5
+1434,elephant on right thats hidden,232,163,0.453125,0.509375
+1434,elephant on right thats hidden,275,171,0.537109375,0.534375
+1434,elephant on right thats hidden,330,179,0.64453125,0.559375
+1434,elephant on right thats hidden,365,179,0.712890625,0.559375
+1434,elephant on right thats hidden,365,180,0.712890625,0.5625
+1434,elephant on right thats hidden,370,182,0.72265625,0.56875
+9629,left elephants ear,257,161,0.501953125,0.503125
+9629,left elephants ear,274,174,0.53515625,0.54375
+9629,left elephants ear,286,175,0.55859375,0.546875
+9629,left elephants ear,276,180,0.5390625,0.5625
+9629,left elephants ear,236,185,0.4609375,0.578125
+9629,left elephants ear,234,188,0.45703125,0.5875
+48437,on right top in bowl,256,160,0.5,0.5
+48437,on right top in bowl,257,159,0.501953125,0.496875
+48437,on right top in bowl,258,151,0.50390625,0.471875
+48437,on right top in bowl,268,101,0.5234375,0.315625
+48437,on right top in bowl,272,75,0.53125,0.234375
+48437,on right top in bowl,293,76,0.572265625,0.2375
+48437,on right top in bowl,298,87,0.58203125,0.271875
+48437,on right top in bowl,342,114,0.66796875,0.35625
+48437,on right top in bowl,345,123,0.673828125,0.384375
+44227,orange in middle,257,161,0.501953125,0.503125
+44227,orange in middle,205,186,0.400390625,0.58125
+44227,orange in middle,161,202,0.314453125,0.63125
+44227,orange in middle,163,204,0.318359375,0.6375
+44227,orange in middle,177,214,0.345703125,0.66875
+44227,orange in middle,181,217,0.353515625,0.678125
+1273,half grapefruit on right,257,157,0.501953125,0.490625
+1273,half grapefruit on right,275,124,0.537109375,0.3875
+1273,half grapefruit on right,286,113,0.55859375,0.353125
+1273,half grapefruit on right,287,109,0.560546875,0.340625
+1273,half grapefruit on right,311,124,0.607421875,0.3875
+1273,half grapefruit on right,337,163,0.658203125,0.509375
+19127,very bottom orange,257,160,0.501953125,0.5
+19127,very bottom orange,249,151,0.486328125,0.471875
+19127,very bottom orange,258,149,0.50390625,0.465625
+19127,very bottom orange,229,188,0.447265625,0.5875
+19127,very bottom orange,219,228,0.427734375,0.7125
+21926,cup in the upper right corner,256,160,0.5,0.5
+21926,cup in the upper right corner,230,161,0.44921875,0.503125
+21926,cup in the upper right corner,229,154,0.447265625,0.48125
+21926,cup in the upper right corner,242,145,0.47265625,0.453125
+21926,cup in the upper right corner,247,131,0.482421875,0.409375
+21926,cup in the upper right corner,248,105,0.484375,0.328125
+21926,cup in the upper right corner,274,84,0.53515625,0.2625
+21926,cup in the upper right corner,420,59,0.8203125,0.184375
+21926,cup in the upper right corner,427,54,0.833984375,0.16875
+6845,glass at right top,256,161,0.5,0.503125
+6845,glass at right top,223,180,0.435546875,0.5625
+6845,glass at right top,222,182,0.43359375,0.56875
+6845,glass at right top,235,186,0.458984375,0.58125
+6845,glass at right top,241,185,0.470703125,0.578125
+6845,glass at right top,273,172,0.533203125,0.5375
+6845,glass at right top,331,97,0.646484375,0.303125
+6845,glass at right top,330,50,0.64453125,0.15625
+6845,glass at right top,348,43,0.6796875,0.134375
+6845,glass at right top,354,45,0.69140625,0.140625
+5700,coffee on left,256,159,0.5,0.496875
+5700,coffee on left,264,150,0.515625,0.46875
+5700,coffee on left,312,68,0.609375,0.2125
+5700,coffee on left,144,56,0.28125,0.175
+5700,coffee on left,110,64,0.21484375,0.2
+7546,a glass on a table,259,160,0.505859375,0.5
+7546,a glass on a table,226,162,0.44140625,0.50625
+7546,a glass on a table,228,155,0.4453125,0.484375
+7546,a glass on a table,220,111,0.4296875,0.346875
+7546,a glass on a table,282,63,0.55078125,0.196875
+7546,a glass on a table,303,37,0.591796875,0.115625
+7546,a glass on a table,300,29,0.5859375,0.090625
+7546,a glass on a table,321,35,0.626953125,0.109375
+10047,left coffee cup,257,161,0.501953125,0.503125
+10047,left coffee cup,238,140,0.46484375,0.4375
+10047,left coffee cup,232,142,0.453125,0.44375
+10047,left coffee cup,237,161,0.462890625,0.503125
+10047,left coffee cup,166,233,0.32421875,0.728125
+20495,cup of tea on right,254,161,0.49609375,0.503125
+20495,cup of tea on right,201,130,0.392578125,0.40625
+20495,cup of tea on right,172,118,0.3359375,0.36875
+20495,cup of tea on right,165,115,0.322265625,0.359375
+20495,cup of tea on right,336,116,0.65625,0.3625
+20495,cup of tea on right,371,113,0.724609375,0.353125
+20495,cup of tea on right,390,113,0.76171875,0.353125
+11989,middle row right one,255,160,0.498046875,0.5
+11989,middle row right one,213,144,0.416015625,0.45
+11989,middle row right one,215,138,0.419921875,0.43125
+11989,middle row right one,209,141,0.408203125,0.440625
+11989,middle row right one,215,144,0.419921875,0.45
+11989,middle row right one,363,141,0.708984375,0.440625
+11990,donut on far left of middle row,255,160,0.498046875,0.5
+11990,donut on far left of middle row,223,143,0.435546875,0.446875
+11990,donut on far left of middle row,228,134,0.4453125,0.41875
+11990,donut on far left of middle row,246,140,0.48046875,0.4375
+11990,donut on far left of middle row,248,145,0.484375,0.453125
+11990,donut on far left of middle row,200,142,0.390625,0.44375
+11990,donut on far left of middle row,132,141,0.2578125,0.440625
+11990,donut on far left of middle row,119,141,0.232421875,0.440625
+11990,donut on far left of middle row,104,144,0.203125,0.45
+6873,bottom row of donuts second from left,257,161,0.501953125,0.503125
+6873,bottom row of donuts second from left,206,150,0.40234375,0.46875
+6873,bottom row of donuts second from left,192,156,0.375,0.4875
+6873,bottom row of donuts second from left,232,181,0.453125,0.565625
+6873,bottom row of donuts second from left,270,207,0.52734375,0.646875
+6873,bottom row of donuts second from left,268,211,0.5234375,0.659375
+6873,bottom row of donuts second from left,258,218,0.50390625,0.68125
+6873,bottom row of donuts second from left,222,229,0.43359375,0.715625
+6873,bottom row of donuts second from left,185,242,0.361328125,0.75625
+11988,middle row second from right,255,160,0.498046875,0.5
+11988,middle row second from right,213,144,0.416015625,0.45
+11988,middle row second from right,215,138,0.419921875,0.43125
+11988,middle row second from right,270,137,0.52734375,0.428125
+11988,middle row second from right,271,138,0.529296875,0.43125
+5215,bottom to right white donut,256,161,0.5,0.503125
+5215,bottom to right white donut,239,150,0.466796875,0.46875
+5215,bottom to right white donut,230,149,0.44921875,0.465625
+5215,bottom to right white donut,269,172,0.525390625,0.5375
+5215,bottom to right white donut,311,190,0.607421875,0.59375
+5215,bottom to right white donut,348,205,0.6796875,0.640625
+5215,bottom to right white donut,455,235,0.888671875,0.734375
+11986,top right corner doughnut,255,160,0.498046875,0.5
+11986,top right corner doughnut,227,144,0.443359375,0.45
+11986,top right corner doughnut,255,103,0.498046875,0.321875
+11986,top right corner doughnut,295,53,0.576171875,0.165625
+11986,top right corner doughnut,376,35,0.734375,0.109375
+11986,top right corner doughnut,407,39,0.794921875,0.121875
+5670,lamb on the left,257,161,0.501953125,0.503125
+5670,lamb on the left,228,131,0.4453125,0.409375
+5670,lamb on the left,220,115,0.4296875,0.359375
+5670,lamb on the left,220,106,0.4296875,0.33125
+5670,lamb on the left,176,94,0.34375,0.29375
+5670,lamb on the left,137,91,0.267578125,0.284375
+12399,lamb with black head front,257,161,0.501953125,0.503125
+12399,lamb with black head front,224,148,0.4375,0.4625
+12399,lamb with black head front,234,145,0.45703125,0.453125
+12399,lamb with black head front,244,139,0.4765625,0.434375
+12399,lamb with black head front,255,138,0.498046875,0.43125
+12399,lamb with black head front,285,154,0.556640625,0.48125
+12399,lamb with black head front,291,175,0.568359375,0.546875
+12399,lamb with black head front,286,179,0.55859375,0.559375
+47452,lower goat right front,257,162,0.501953125,0.50625
+47452,lower goat right front,237,160,0.462890625,0.5
+47452,lower goat right front,288,170,0.5625,0.53125
+47452,lower goat right front,379,199,0.740234375,0.621875
+47452,lower goat right front,386,204,0.75390625,0.6375
+47452,lower goat right front,392,227,0.765625,0.709375
+17828,middle bowl on far left,256,160,0.5,0.5
+17828,middle bowl on far left,237,146,0.462890625,0.45625
+17828,middle bowl on far left,245,137,0.478515625,0.428125
+17828,middle bowl on far left,259,129,0.505859375,0.403125
+17828,middle bowl on far left,253,125,0.494140625,0.390625
+17828,middle bowl on far left,142,141,0.27734375,0.440625
+746,upper right bowl,263,163,0.513671875,0.509375
+746,upper right bowl,198,165,0.38671875,0.515625
+746,upper right bowl,201,139,0.392578125,0.434375
+746,upper right bowl,227,100,0.443359375,0.3125
+746,upper right bowl,336,67,0.65625,0.209375
+746,upper right bowl,361,51,0.705078125,0.159375
+33831,rice dish on right,258,161,0.50390625,0.503125
+33831,rice dish on right,235,155,0.458984375,0.484375
+33831,rice dish on right,218,165,0.42578125,0.515625
+33831,rice dish on right,181,182,0.353515625,0.56875
+33831,rice dish on right,236,152,0.4609375,0.475
+33831,rice dish on right,399,80,0.779296875,0.25
+17829,bowl above the square bowl on right,256,160,0.5,0.5
+17829,bowl above the square bowl on right,248,141,0.484375,0.440625
+17829,bowl above the square bowl on right,251,138,0.490234375,0.43125
+17829,bowl above the square bowl on right,252,138,0.4921875,0.43125
+17829,bowl above the square bowl on right,254,122,0.49609375,0.38125
+17829,bowl above the square bowl on right,246,121,0.48046875,0.378125
+17829,bowl above the square bowl on right,273,117,0.533203125,0.365625
+17829,bowl above the square bowl on right,337,102,0.658203125,0.31875
+17829,bowl above the square bowl on right,354,67,0.69140625,0.209375
+40288,bowl back right,256,160,0.5,0.5
+40288,bowl back right,239,119,0.466796875,0.371875
+40288,bowl back right,236,95,0.4609375,0.296875
+40288,bowl back right,225,74,0.439453125,0.23125
+40288,bowl back right,349,72,0.681640625,0.225
+13340,first container in middle row on left,256,161,0.5,0.503125
+13340,first container in middle row on left,212,167,0.4140625,0.521875
+13340,first container in middle row on left,230,175,0.44921875,0.546875
+13340,first container in middle row on left,266,183,0.51953125,0.571875
+13340,first container in middle row on left,260,172,0.5078125,0.5375
+13340,first container in middle row on left,247,171,0.482421875,0.534375
+13340,first container in middle row on left,238,173,0.46484375,0.540625
+13340,first container in middle row on left,191,181,0.373046875,0.565625
+13340,first container in middle row on left,120,205,0.234375,0.640625
+745,top left bowl,263,163,0.513671875,0.509375
+745,top left bowl,198,167,0.38671875,0.521875
+745,top left bowl,191,124,0.373046875,0.3875
+745,top left bowl,165,84,0.322265625,0.2625
+745,top left bowl,170,74,0.33203125,0.23125
+745,top left bowl,153,59,0.298828125,0.184375
+745,top left bowl,159,61,0.310546875,0.190625
+5143,muffin behind big one in front,256,158,0.5,0.49375
+5143,muffin behind big one in front,247,127,0.482421875,0.396875
+5143,muffin behind big one in front,269,125,0.525390625,0.390625
+5143,muffin behind big one in front,269,128,0.525390625,0.4
+5143,muffin behind big one in front,206,41,0.40234375,0.128125
+45681,first row first cake from right to left,257,161,0.501953125,0.503125
+45681,first row first cake from right to left,217,158,0.423828125,0.49375
+45681,first row first cake from right to left,254,175,0.49609375,0.546875
+45681,first row first cake from right to left,268,197,0.5234375,0.615625
+45681,first row first cake from right to left,306,206,0.59765625,0.64375
+45681,first row first cake from right to left,308,205,0.6015625,0.640625
+45681,first row first cake from right to left,406,213,0.79296875,0.665625
+45681,first row first cake from right to left,429,214,0.837890625,0.66875
+45681,first row first cake from right to left,435,217,0.849609375,0.678125
+45681,first row first cake from right to left,437,219,0.853515625,0.684375
+19744,chocolate cake,255,160,0.498046875,0.5
+19744,chocolate cake,198,127,0.38671875,0.396875
+19744,chocolate cake,177,122,0.345703125,0.38125
+5144,muffin in top right,256,158,0.5,0.49375
+5144,muffin in top right,247,127,0.482421875,0.396875
+5144,muffin in top right,249,115,0.486328125,0.359375
+5144,muffin in top right,254,101,0.49609375,0.315625
+5144,muffin in top right,242,72,0.47265625,0.225
+5144,muffin in top right,420,57,0.8203125,0.178125
+5144,muffin in top right,425,57,0.830078125,0.178125
+5144,muffin in top right,425,57,0.830078125,0.178125
+5144,muffin in top right,426,56,0.83203125,0.175
+5144,muffin in top right,425,56,0.830078125,0.175
+5144,muffin in top right,425,56,0.830078125,0.175
+10768,cow at top right,257,161,0.501953125,0.503125
+10768,cow at top right,270,137,0.52734375,0.428125
+10768,cow at top right,275,130,0.537109375,0.40625
+10768,cow at top right,299,116,0.583984375,0.3625
+10768,cow at top right,393,71,0.767578125,0.221875
+10768,cow at top right,423,55,0.826171875,0.171875
+11212,bull on the left,258,162,0.50390625,0.50625
+11212,bull on the left,193,154,0.376953125,0.48125
+11212,bull on the left,162,145,0.31640625,0.453125
+11212,bull on the left,112,139,0.21875,0.434375
+11212,bull on the left,98,135,0.19140625,0.421875
+11212,bull on the left,93,131,0.181640625,0.409375
+46501,orange vehicle on right,257,161,0.501953125,0.503125
+46501,orange vehicle on right,236,149,0.4609375,0.465625
+46501,orange vehicle on right,239,152,0.466796875,0.475
+46501,orange vehicle on right,278,154,0.54296875,0.48125
+46501,orange vehicle on right,292,154,0.5703125,0.48125
+46501,orange vehicle on right,327,153,0.638671875,0.478125
+46501,orange vehicle on right,329,152,0.642578125,0.475
+24435,truck on left front,257,160,0.501953125,0.5
+24435,truck on left front,224,190,0.4375,0.59375
+24435,truck on left front,215,198,0.419921875,0.61875
+24435,truck on left front,177,203,0.345703125,0.634375
+24435,truck on left front,133,207,0.259765625,0.646875
+24435,truck on left front,108,209,0.2109375,0.653125
+31619,right most truck,256,161,0.5,0.503125
+31619,right most truck,235,165,0.458984375,0.515625
+31619,right most truck,239,159,0.466796875,0.496875
+31619,right most truck,327,171,0.638671875,0.534375
+31619,right most truck,404,178,0.7890625,0.55625
+37712,black suitcase near to sidewalk and car,256,159,0.5,0.496875
+37712,black suitcase near to sidewalk and car,220,162,0.4296875,0.50625
+37712,black suitcase near to sidewalk and car,225,168,0.439453125,0.525
+37712,black suitcase near to sidewalk and car,217,181,0.423828125,0.565625
+37712,black suitcase near to sidewalk and car,220,186,0.4296875,0.58125
+37712,black suitcase near to sidewalk and car,244,185,0.4765625,0.578125
+37712,black suitcase near to sidewalk and car,235,186,0.458984375,0.58125
+37712,black suitcase near to sidewalk and car,226,184,0.44140625,0.575
+37712,black suitcase near to sidewalk and car,235,189,0.458984375,0.590625
+37712,black suitcase near to sidewalk and car,239,191,0.466796875,0.596875
+3130,the red container in the blue cart,256,159,0.5,0.496875
+3130,the red container in the blue cart,255,132,0.498046875,0.4125
+3130,the red container in the blue cart,242,113,0.47265625,0.353125
+3130,the red container in the blue cart,167,102,0.326171875,0.31875
+3130,the red container in the blue cart,113,98,0.220703125,0.30625
+3130,the red container in the blue cart,106,102,0.20703125,0.31875
+3130,the red container in the blue cart,111,102,0.216796875,0.31875
+3130,the red container in the blue cart,105,104,0.205078125,0.325
+23882,suitcase behind the zebra bag,256,159,0.5,0.496875
+23882,suitcase behind the zebra bag,242,129,0.47265625,0.403125
+23882,suitcase behind the zebra bag,204,126,0.3984375,0.39375
+23882,suitcase behind the zebra bag,196,123,0.3828125,0.384375
+23882,suitcase behind the zebra bag,189,126,0.369140625,0.39375
+23882,suitcase behind the zebra bag,185,119,0.361328125,0.371875
+23882,suitcase behind the zebra bag,185,111,0.361328125,0.346875
+23182,broccoli pieces on far right of plate,257,161,0.501953125,0.503125
+23182,broccoli pieces on far right of plate,243,152,0.474609375,0.475
+23182,broccoli pieces on far right of plate,242,145,0.47265625,0.453125
+23182,broccoli pieces on far right of plate,274,147,0.53515625,0.459375
+23182,broccoli pieces on far right of plate,280,140,0.546875,0.4375
+23182,broccoli pieces on far right of plate,378,124,0.73828125,0.3875
+23182,broccoli pieces on far right of plate,402,112,0.78515625,0.35
+23182,broccoli pieces on far right of plate,409,110,0.798828125,0.34375
+23182,broccoli pieces on far right of plate,411,107,0.802734375,0.334375
+5154,piece of broccoli at top of plate,258,160,0.50390625,0.5
+5154,piece of broccoli at top of plate,231,162,0.451171875,0.50625
+5154,piece of broccoli at top of plate,224,165,0.4375,0.515625
+5154,piece of broccoli at top of plate,258,168,0.50390625,0.525
+5154,piece of broccoli at top of plate,266,164,0.51953125,0.5125
+5154,piece of broccoli at top of plate,259,151,0.505859375,0.471875
+5154,piece of broccoli at top of plate,254,130,0.49609375,0.40625
+5154,piece of broccoli at top of plate,259,98,0.505859375,0.30625
+5154,piece of broccoli at top of plate,258,70,0.50390625,0.21875
+5154,piece of broccoli at top of plate,252,74,0.4921875,0.23125
+5154,piece of broccoli at top of plate,235,47,0.458984375,0.146875
+26006,broccoli floret far right on plate,258,160,0.50390625,0.5
+26006,broccoli floret far right on plate,245,170,0.478515625,0.53125
+26006,broccoli floret far right on plate,236,179,0.4609375,0.559375
+26006,broccoli floret far right on plate,226,174,0.44140625,0.54375
+26006,broccoli floret far right on plate,233,181,0.455078125,0.565625
+26006,broccoli floret far right on plate,263,175,0.513671875,0.546875
+26006,broccoli floret far right on plate,269,180,0.525390625,0.5625
+26006,broccoli floret far right on plate,309,166,0.603515625,0.51875
+26006,broccoli floret far right on plate,326,168,0.63671875,0.525
+26006,broccoli floret far right on plate,388,153,0.7578125,0.478125
+26006,broccoli floret far right on plate,394,155,0.76953125,0.484375
+11191,top left broccoli,257,160,0.501953125,0.5
+11191,top left broccoli,256,134,0.5,0.41875
+11191,top left broccoli,296,90,0.578125,0.28125
+11191,top left broccoli,288,52,0.5625,0.1625
+11191,top left broccoli,150,49,0.29296875,0.153125
+7240,the top right corner blur,257,160,0.501953125,0.5
+7240,the top right corner blur,222,135,0.43359375,0.421875
+7240,the top right corner blur,219,110,0.427734375,0.34375
+7240,the top right corner blur,236,89,0.4609375,0.278125
+7240,the top right corner blur,269,55,0.525390625,0.171875
+7240,the top right corner blur,307,51,0.599609375,0.159375
+7240,the top right corner blur,315,38,0.615234375,0.11875
+7240,the top right corner blur,350,42,0.68359375,0.13125
+23583,left blue and red chair bottom left,256,160,0.5,0.5
+23583,left blue and red chair bottom left,273,163,0.533203125,0.509375
+23583,left blue and red chair bottom left,288,162,0.5625,0.50625
+23583,left blue and red chair bottom left,227,152,0.443359375,0.475
+23583,left blue and red chair bottom left,177,146,0.345703125,0.45625
+23583,left blue and red chair bottom left,114,155,0.22265625,0.484375
+23583,left blue and red chair bottom left,76,177,0.1484375,0.553125
+23583,left blue and red chair bottom left,77,212,0.150390625,0.6625
+23583,left blue and red chair bottom left,78,228,0.15234375,0.7125
+23583,left blue and red chair bottom left,79,230,0.154296875,0.71875
+16478,dark green chair,258,160,0.50390625,0.5
+16478,dark green chair,215,171,0.419921875,0.534375
+16478,dark green chair,194,198,0.37890625,0.61875
+16478,dark green chair,195,211,0.380859375,0.659375
+16478,dark green chair,197,218,0.384765625,0.68125
+35148,bottom right couch brown,257,160,0.501953125,0.5
+35148,bottom right couch brown,226,158,0.44140625,0.49375
+35148,bottom right couch brown,287,214,0.560546875,0.66875
+35148,bottom right couch brown,422,252,0.82421875,0.7875
+7625,white chair on left foreground,257,159,0.501953125,0.496875
+7625,white chair on left foreground,196,157,0.3828125,0.490625
+7625,white chair on left foreground,228,168,0.4453125,0.525
+7625,white chair on left foreground,263,194,0.513671875,0.60625
+7625,white chair on left foreground,237,178,0.462890625,0.55625
+7625,white chair on left foreground,206,193,0.40234375,0.603125
+7625,white chair on left foreground,140,203,0.2734375,0.634375
+7625,white chair on left foreground,135,210,0.263671875,0.65625
+38111,empty gray chair with light wood,257,161,0.501953125,0.503125
+38111,empty gray chair with light wood,250,148,0.48828125,0.4625
+38111,empty gray chair with light wood,262,157,0.51171875,0.490625
+38111,empty gray chair with light wood,246,173,0.48046875,0.540625
+38111,empty gray chair with light wood,237,196,0.462890625,0.6125
+38111,empty gray chair with light wood,246,209,0.48046875,0.653125
+38111,empty gray chair with light wood,230,214,0.44921875,0.66875
+38111,empty gray chair with light wood,204,225,0.3984375,0.703125
+38111,empty gray chair with light wood,190,234,0.37109375,0.73125
+13851,leather chair on right,255,161,0.498046875,0.503125
+13851,leather chair on right,257,167,0.501953125,0.521875
+13851,leather chair on right,253,178,0.494140625,0.55625
+13851,leather chair on right,278,193,0.54296875,0.603125
+13851,leather chair on right,307,203,0.599609375,0.634375
+13851,leather chair on right,422,235,0.82421875,0.734375
+13851,leather chair on right,427,243,0.833984375,0.759375
+37838,white seat cushion behind guy,256,159,0.5,0.496875
+37838,white seat cushion behind guy,262,143,0.51171875,0.446875
+37838,white seat cushion behind guy,240,142,0.46875,0.44375
+37838,white seat cushion behind guy,247,140,0.482421875,0.4375
+37838,white seat cushion behind guy,268,146,0.5234375,0.45625
+37838,white seat cushion behind guy,260,157,0.5078125,0.490625
+37838,white seat cushion behind guy,199,173,0.388671875,0.540625
+37838,white seat cushion behind guy,178,182,0.34765625,0.56875
+8368,woman in between bride and groom,257,160,0.501953125,0.5
+8368,woman in between bride and groom,235,107,0.458984375,0.334375
+8368,woman in between bride and groom,239,99,0.466796875,0.309375
+8368,woman in between bride and groom,341,111,0.666015625,0.346875
+8368,woman in between bride and groom,356,115,0.6953125,0.359375
+8368,woman in between bride and groom,355,117,0.693359375,0.365625
+8368,woman in between bride and groom,352,119,0.6875,0.371875
+8368,woman in between bride and groom,345,128,0.673828125,0.4
+11102,guy in yellow behind ball,259,158,0.505859375,0.49375
+11102,guy in yellow behind ball,281,130,0.548828125,0.40625
+11102,guy in yellow behind ball,282,123,0.55078125,0.384375
+11102,guy in yellow behind ball,399,131,0.779296875,0.409375
+11102,guy in yellow behind ball,367,108,0.716796875,0.3375
+11102,guy in yellow behind ball,330,114,0.64453125,0.35625
+11102,guy in yellow behind ball,328,118,0.640625,0.36875
+30735,red on far left can barely see,256,159,0.5,0.496875
+30735,red on far left can barely see,245,135,0.478515625,0.421875
+30735,red on far left can barely see,239,122,0.466796875,0.38125
+30735,red on far left can barely see,305,134,0.595703125,0.41875
+30735,red on far left can barely see,276,146,0.5390625,0.45625
+30735,red on far left can barely see,267,181,0.521484375,0.565625
+30735,red on far left can barely see,209,201,0.408203125,0.628125
+30735,red on far left can barely see,114,243,0.22265625,0.759375
+29449,guy on right,255,158,0.498046875,0.49375
+29449,guy on right,188,90,0.3671875,0.28125
+29449,guy on right,155,66,0.302734375,0.20625
+29449,guy on right,141,64,0.275390625,0.2
+29449,guy on right,358,72,0.69921875,0.225
+8700,person out of view left,270,156,0.52734375,0.4875
+8700,person out of view left,310,148,0.60546875,0.4625
+8700,person out of view left,311,143,0.607421875,0.446875
+8700,person out of view left,335,150,0.654296875,0.46875
+8700,person out of view left,118,185,0.23046875,0.578125
+8700,person out of view left,51,183,0.099609375,0.571875
+38270,monitor on right,257,160,0.501953125,0.5
+38270,monitor on right,247,162,0.482421875,0.50625
+38270,monitor on right,261,163,0.509765625,0.509375
+38270,monitor on right,340,169,0.6640625,0.528125
+38270,monitor on right,400,161,0.78125,0.503125
+25889,monitor on left sitting on top of stand,255,160,0.498046875,0.5
+25889,monitor on left sitting on top of stand,246,153,0.48046875,0.478125
+25889,monitor on left sitting on top of stand,252,147,0.4921875,0.459375
+25889,monitor on left sitting on top of stand,259,133,0.505859375,0.415625
+25889,monitor on left sitting on top of stand,245,114,0.478515625,0.35625
+25889,monitor on left sitting on top of stand,138,102,0.26953125,0.31875
+25889,monitor on left sitting on top of stand,101,87,0.197265625,0.271875
+25889,monitor on left sitting on top of stand,97,82,0.189453125,0.25625
+25889,monitor on left sitting on top of stand,97,81,0.189453125,0.253125
+25889,monitor on left sitting on top of stand,97,77,0.189453125,0.240625
+15975,small screen in middle,256,161,0.5,0.503125
+15975,small screen in middle,244,183,0.4765625,0.571875
+15975,small screen in middle,227,189,0.443359375,0.590625
+15975,small screen in middle,236,198,0.4609375,0.61875
+15975,small screen in middle,229,216,0.447265625,0.675
+15975,small screen in middle,242,229,0.47265625,0.715625
+8352,monitor upper right corner,258,160,0.50390625,0.5
+8352,monitor upper right corner,221,159,0.431640625,0.496875
+8352,monitor upper right corner,268,109,0.5234375,0.340625
+8352,monitor upper right corner,270,85,0.52734375,0.265625
+8352,monitor upper right corner,321,55,0.626953125,0.171875
+8352,monitor upper right corner,391,38,0.763671875,0.11875
+8352,monitor upper right corner,386,40,0.75390625,0.125
+15976,screen on left,256,161,0.5,0.503125
+15976,screen on left,201,151,0.392578125,0.471875
+15976,screen on left,202,146,0.39453125,0.45625
+15976,screen on left,180,150,0.3515625,0.46875
+15976,screen on left,121,155,0.236328125,0.484375
+15976,screen on left,110,167,0.21484375,0.521875
+16241,tv in center stacked on another tv,256,161,0.5,0.503125
+16241,tv in center stacked on another tv,227,138,0.443359375,0.43125
+16241,tv in center stacked on another tv,226,142,0.44140625,0.44375
+16241,tv in center stacked on another tv,243,168,0.474609375,0.525
+16241,tv in center stacked on another tv,252,165,0.4921875,0.515625
+16241,tv in center stacked on another tv,253,168,0.494140625,0.525
+16241,tv in center stacked on another tv,255,180,0.498046875,0.5625
+16241,tv in center stacked on another tv,256,153,0.5,0.478125
+16241,tv in center stacked on another tv,255,149,0.498046875,0.465625
+16241,tv in center stacked on another tv,249,137,0.486328125,0.428125
+16241,tv in center stacked on another tv,251,137,0.490234375,0.428125
+44428,sandwich left top,255,160,0.498046875,0.5
+44428,sandwich left top,279,151,0.544921875,0.471875
+44428,sandwich left top,292,147,0.5703125,0.459375
+44428,sandwich left top,292,112,0.5703125,0.35
+44428,sandwich left top,146,85,0.28515625,0.265625
+44428,sandwich left top,140,83,0.2734375,0.259375
+46856,sandwich on the right,256,160,0.5,0.5
+46856,sandwich on the right,347,102,0.677734375,0.31875
+34939,the top piece of bread,257,161,0.501953125,0.503125
+34939,the top piece of bread,228,170,0.4453125,0.53125
+34939,the top piece of bread,224,173,0.4375,0.540625
+34939,the top piece of bread,247,171,0.482421875,0.534375
+34939,the top piece of bread,260,164,0.5078125,0.5125
+34939,the top piece of bread,274,157,0.53515625,0.490625
+34939,the top piece of bread,251,147,0.490234375,0.459375
+34939,the top piece of bread,256,147,0.5,0.459375
+44427,sandwich on the farthest left side,255,160,0.498046875,0.5
+44427,sandwich on the farthest left side,279,151,0.544921875,0.471875
+44427,sandwich on the farthest left side,300,141,0.5859375,0.440625
+44427,sandwich on the farthest left side,298,143,0.58203125,0.446875
+44427,sandwich on the farthest left side,301,129,0.587890625,0.403125
+44427,sandwich on the farthest left side,250,96,0.48828125,0.3
+44427,sandwich on the farthest left side,170,58,0.33203125,0.18125
+44427,sandwich on the farthest left side,102,94,0.19921875,0.29375
+46777,farthest left half of sandwich,257,161,0.501953125,0.503125
+46777,farthest left half of sandwich,217,139,0.423828125,0.434375
+46777,farthest left half of sandwich,255,122,0.498046875,0.38125
+46777,farthest left half of sandwich,226,99,0.44140625,0.309375
+46777,farthest left half of sandwich,183,71,0.357421875,0.221875
+46777,farthest left half of sandwich,129,97,0.251953125,0.303125
+46777,farthest left half of sandwich,116,150,0.2265625,0.46875
