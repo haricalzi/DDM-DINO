@@ -6,7 +6,7 @@
 
 Visual attention models have demonstrated a growing capability in predicting scanpaths, which are sequences of fixations and eye movements. Specifically, [ScanDDM](https://github.com/phuselab/scanDDM) introduced a DDM-based approach for predicting goal-directed scanpaths in a zero-shot modality, while [ART](https://github.com/cvlab-stonybrook/ART) focused on the incremental prediction of attention during language-guided object referral tasks. The present work explores the combination of these two approaches, modifying ScanDDM with the integration of [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) to address the incremental object referral task. The resulting model has been named [DDM-DINO](https://github.com/haricalzi/DDM-DINO).
 
-More detailed informations and examples of usage can be found in the attached PDF report.
+More detailed informations and examples of usage can be found in the attached [PDF report](https://github.com/haricalzi/DDM-DINO/blob/main/NI_AC_report_Calzi_52061A.pdf).
 
 ### Setup
 Install all the requirements with `pip install -r requirements.txt`
